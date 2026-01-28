@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+
+# build outputs
+publish/
+
+# profiler outputs
+counter*.csv
+
+# OS
+Thumbs.db
+.DS_Store
+
+# logs
+*.log
